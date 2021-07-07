@@ -1,0 +1,36 @@
+button.btn_meeting {
+  position: absolute;
+  left: 40rem;
+  top: 1.4%;
+  border-color: white;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.modal-main {
+  position: fixed;
+  background-color: #F9F9F9;
+  height: auto;
+  top: 50%;
+  left: 50%;
+  width: 30rem;
+  height: 20rem;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.meeting1 {
+  background-color: #6264a7;
+  border-radius: 25px;
+  font-size: 20px;
+  color: white;
+  padding: 0.5rem;
+  margin-bottom: 1.5rem;
+  cursor: pointer;
+}

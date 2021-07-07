@@ -1,0 +1,46 @@
+
+span.iconContainer {
+    /* padding: 2%; */
+  background: none; 
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 0%;
+}
+.iconContainer {
+    padding: 10px;
+    border-radius: 12%;
+    border: 2px solid var(--primary-color);
+    width: 3.25rem;
+    height: 1.25rem;
+    cursor: pointer;
+    background-color: var(--primary-color-hover);
+    box-shadow: var(--lift-shadow);
+    transition: background-color .2s cubic-bezier(.4,0,.2,1);
+}
+.o-wrapper-l{
+    padding:140px;
+    height: 100vh;
+    background-color:#6264A7 ;
+    color:#f3f2f1;
+
+}
+.callBox.flex{
+    
+    margin: 25px auto 10px;
+    color: black;
+}
+.primaryButton{
+    background-color: #7375bf;
+    font-size: 1.5rem;
+     color: white;
+}
+.primaryButton:hover{
+    background-color:#8689cc;
+    color: black;
+}
+.welcomeText{
+    font-size: 4rem;
+    margin-bottom: 3rem;
+}
