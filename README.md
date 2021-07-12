@@ -1,6 +1,6 @@
 # Sam's chat
 
-This project is a video-chat web app, where the user can do a fully fledged chat with their friends and a two person video call.
+This project is a video-chat web app, where the user can do a full fledged chat with their friends and a two person video call.
 
 [Visit Sam's Chat](https://frozen-coast-69106.herokuapp.com/)
 
@@ -24,7 +24,7 @@ This project is a video-chat web app, where the user can do a fully fledged chat
 
 - **4th Sprint**
 
-  Worked on ui , tested and deployed the app
+  Worked on UI , tested and deployed the app
 
 
 ## Technology stack
@@ -41,7 +41,8 @@ This project is a video-chat web app, where the user can do a fully fledged chat
 ## Features
 **Chat**
 
-- Form groups
+- Groups can be created/deleted
+- Group participants can added/removed
 - Previous messages are saved
 - Send images
 - Read receipts
@@ -49,22 +50,23 @@ This project is a video-chat web app, where the user can do a fully fledged chat
 - Send hyperlinks
 - See when someone is typing
 
+
 **Video Call**
 
+- Two person video call
 - Multiple Screen-sharing
 - Mute/Unmute
 - VideoOn/Off
 - Expand/Compress screen
-- Two person video call
 
 ## Folder Structure
-- The server code is present in the root folder of the project, and
+- The server code is present in the root folder of the project
 - Front-end of the project is present inside the **client** directory
 - All react components can be found inside **client/components** directory
 
 ### Resources used
-  Video call enabled via [Socket.io](https://socket.io/) and PeerJS
+   [Socket.io](https://socket.io/) and [PeerJS](https://peerjs.com/)
 
-  Chat enabled via [chatengine.io](https://chatengine.io)
+   [chatengine.io](https://chatengine.io)
 
 
