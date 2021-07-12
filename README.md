@@ -32,7 +32,7 @@ This project is a video-chat web app, where the user can do a fully fledged chat
 - Mute/Unmute
 - VideoOn/Off
 - Expand/Compress screen
-- Two person
+- Two person video call
 
 ## Folder Structure
 - The server code is present in the root folder of the project, and
@@ -41,7 +41,6 @@ This project is a video-chat web app, where the user can do a fully fledged chat
 
 ### Resources used
   Video call enabled via Socket.io and PeerJS
-
-  Chat enabled via chatengine.io
+  Chat enabled via chatengine.io [https://chatengine.io]
 
 
