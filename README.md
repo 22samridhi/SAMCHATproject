@@ -4,6 +4,28 @@ This project is a video-chat web app, where the user can do a fully fledged chat
 
 [Visit Sam's Chat](https://frozen-coast-69106.herokuapp.com/)
 
+# Agile Methodology
+ Agile methodology was for project management.
+
+ **There were a total of 4 Sprints each of 1 week**
+
+- **1st Sprint**
+
+   Created a two person video call . Then to that added the features of mute/unmute ,videoOn/Off, screen-sharing.
+
+- **2nd Sprint**
+
+  Added the feature of Chatting
+
+- **3rd Sprint**
+
+  SignUp/SignIn feature was added
+
+- **4th Sprint**
+
+  Worked on ui , tested and deployed the app
+
+
 ## Technology stack
 
 ![react](https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67) 
@@ -41,7 +63,7 @@ This project is a video-chat web app, where the user can do a fully fledged chat
 
 ### Resources used
   Video call enabled via [Socket.io](https://socket.io/) and PeerJS
-  
+
   Chat enabled via [chatengine.io](https://chatengine.io)
 
 
