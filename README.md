@@ -40,7 +40,8 @@ This project is a video-chat web app, where the user can do a fully fledged chat
 - All react components can be found inside **client/components** directory
 
 ### Resources used
-  Video call enabled via Socket.io and PeerJS
-  Chat enabled via chatengine.io [https://chatengine.io]
+  Video call enabled via [Socket.io](https://socket.io/) and PeerJS
+  
+  Chat enabled via [chatengine.io](https://chatengine.io)
 
 
