@@ -4,8 +4,9 @@ This project is a video-chat web app, where the user can do a fully fledged chat
 
 [Visit Sam's Chat](https://frozen-coast-69106.herokuapp.com/)
 
+[Video Demo](https://youtu.be/WxdhSpvv3TM)
 # Agile Methodology
- Agile methodology was for project management.
+ Agile methodology was used for project management.
 
  **There were a total of 4 Sprints each of 1 week**
 
